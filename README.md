@@ -1,1 +1,6 @@
-# top10news
+- Tên dự án: Top 10 tin tức nổi bật thế giới
+- Mục tiêu dự án: Giúp người truy cập xem được 10 tin top nổi bật thế giới. Có thể tìm kiếm thông tin theo keyworks
+- Quá trình triển khai: Thiết kế tính năng, giao diện, đọc API load nội dung về trang web
+- Các kỹ năng/ frame work đã dùng: HTML, CSS, Bootstrap, JQuery, JavaScript
+- Kết quả dự án: Tạo được trang web top 10 tin top nổi bật cơ bản
+- Link demo: https://minhviet123tv.github.io/top10news/
